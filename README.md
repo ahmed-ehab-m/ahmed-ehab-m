@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **ahmedehab56200@gmail.com**
 
+- ⚡ Fun fact **always learning**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-ehab-72052b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed ehab" height="30" width="40" /></a>
