@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ehab</h1>
 <h3 align="center">A passionate Mobile Application developer (Flutter) from Egypt</h3>
 
-- 💬 Ask me about **Flutter ,Dart ,Python , C++**
+- 💬 Ask me about **Dart , Java , Python , C++ , Flutter**
 
 - 📫 How to reach me **ahmedehab56200@gmail.com**
 
